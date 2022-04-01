@@ -29,16 +29,16 @@ main{
     margin:auto;
 }
 .container{
-    width:320px;
+    width:310px;
     height:500px;
     background-color:var(--white);
     padding:15px;
     border-radius:20px;
-    box-shadow: 0px 20px 20px -15px #111; 
+    box-shadow: 0px 30px 40px -40px rgb(153, 152, 152); 
     
 }
 img {
-    width:285px;
+    width:280px;
     border-radius:10px;
     margin:auto;
     display:block;
